@@ -104,7 +104,8 @@ header {
 .header-left {
   float: left;
   font-size: large;
-  padding: 0;
+  padding: 0 25px;
+  display: block;
 }
 
 .header-right {
