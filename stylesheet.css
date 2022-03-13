@@ -106,6 +106,7 @@ header {
 .logo {
   width: 124px;
   margin-top: 20px;
+  z-index: 10;
 }
 
 .header-left {
