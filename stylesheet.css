@@ -54,6 +54,7 @@ a {
 .top-wrapper h2 {
   opacity: 0.7;
   font-size: 30px;
+  color: black;
   letter-spacing: 5px;
   margin-bottom: 10px;
 }
@@ -73,7 +74,7 @@ a {
 }
 
 .seemore {
-  background-color: #fffacd;
+  background-color: #ffffe0;
 }
 
 .btn {
